@@ -9,6 +9,7 @@ import java.util.List;
 
 public class Mbg_GeneratorUtil {
     public static void main(String[] args) throws Exception {
+        System.out.printin("开始了");
         try {
             new Mbg_GeneratorUtil().generator();
         } catch (Exception e) {

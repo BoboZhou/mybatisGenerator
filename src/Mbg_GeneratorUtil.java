@@ -9,6 +9,7 @@ import java.util.List;
 
 public class Mbg_GeneratorUtil {
     public static void main(String[] args) throws Exception {
+    	System.out.println("kaishil");
         try {
             new Mbg_GeneratorUtil().generator();
         } catch (Exception e) {
@@ -29,4 +30,9 @@ public class Mbg_GeneratorUtil {
         myBatisGenerator.generate(null);
 
     }
+    public void bobo() {
+    	int i = 0;
+    	System.out.println(i);
+		
+	}
 }

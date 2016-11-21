@@ -30,4 +30,9 @@ public class Mbg_GeneratorUtil {
         myBatisGenerator.generate(null);
 
     }
+    public void ggg() {
+    	int dd = 55;
+    	System.out.println("glgjd");
+		
+	}
 }
